@@ -10,6 +10,9 @@ sudo ldconfig
 
 The rest is the same, enjoy ORB-SLAM2 on modern Ubuntu :).
 
+## Want to run on ssh server?
+Go to src/System.cc and in line 98 replace *if(bUseViewer)* with *if(false)*
+
 
 # -------------------------------------------------------
 
