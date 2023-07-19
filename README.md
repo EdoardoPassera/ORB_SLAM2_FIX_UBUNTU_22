@@ -1,4 +1,16 @@
 # ORB-SLAM2
+
+## !!!NOTES!!!
+
+## Install first this dependencies for opencv
+sudo apt-get install libgtk2.0-dev pkg-config
+
+## After Pangolin install don't forget to do:
+sudo ldconfig
+
+The rest is the same, enjoy ORB-SLAM2 on modern Ubuntu :).
+
+
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 
 **13 Jan 2017**: OpenCV 3 and Eigen 3.3 are now supported.
