@@ -2,7 +2,7 @@
 
 ## !!!NOTES!!!
 
-## Install first this dependencies for opencv
+## Install first this dependencies for opencv (use the version provided, it's cherry picked already)
 sudo apt-get install libgtk2.0-dev pkg-config
 
 ## After Pangolin install don't forget to do:
