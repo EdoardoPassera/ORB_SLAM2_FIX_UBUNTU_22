@@ -8,10 +8,10 @@ sudo apt-get install libgtk2.0-dev pkg-config
 ## After Pangolin install don't forget to do:
 sudo ldconfig
 
-The rest is the same, enjoy ORB-SLAM2 on modern Ubuntu :).
+The rest is the same, enjoy **ORB-SLAM2** on **modern Ubuntu** :).
 
 ## Want to run on ssh server?
-Go to src/System.cc and in line 98 replace *if(bUseViewer)* with *if(false)*
+Go to **src/System.cc** and in **line 98** replace **if(bUseViewer)** with **if(false)**
 
 
 # -------------------------------------------------------
